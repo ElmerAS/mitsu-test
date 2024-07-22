@@ -1,46 +1,63 @@
-{"modelo":[
-    {
-        "id": 1,
-        "name": "Modelo 1"
-    },
-    {
-        "id": 2,
-        "name": "Modelo 2"
-    },
-    {
-        "id": 3,
-        "name": "Modelo 3"
-    }
-],
-  "departamento":[
-    {
-        "id": 1,
-        "name": "Lima"
-    },
-    {
-        "id": 2,
-        "name": "Ica"
-    },
-    {
-        "id": 3,
-        "name": "Cusco"
-    }
-],
-  "concesionario":[
-    {
-        "id": 1,
-        "name": "Ate - San Blas",
-        "idDep": 1
-    },
-    {
-        "id": 2,
-        "name": "Huacho - Perucar",
-        "idDep": 1
-    },
-    {
-        "id": 3,
-        "name": "Cusco - Automotriz Andina S.A.",
-        "idDep": 3
-    }
-]
+{
+    "modelo": [
+        {
+            "id": 1,
+            "name": "Modelo 1"
+        },
+        {
+            "id": 2,
+            "name": "Modelo 2"
+        },
+        {
+            "id": 3,
+            "name": "Modelo 3"
+        }
+    ],
+    "departamento": [
+        {
+            "id": 1,
+            "name": "Lima"
+        },
+        {
+            "id": 2,
+            "name": "Ica"
+        },
+        {
+            "id": 3,
+            "name": "Cusco"
+        }
+    ],
+    "concesionario": [
+        {
+            "id": 1,
+            "name": "Ate - San Blas",
+            "idDep": 1
+        },
+        {
+            "id": 2,
+            "name": "Huacho - Perucar",
+            "idDep": 1
+        },
+        {
+            "id": 3,
+            "name": "Cusco - Automotriz Andina S.A.",
+            "idDep": 3
+        }
+    ],
+    "lead": [
+        {
+            "id": 1,
+            "nombre": "renzo",
+            "apellido": "tejada",
+            "id_modelo": "1",
+            "documento": "12121212",
+            "telefono": "987654321",
+            "email": "test@test.com",
+            "id_departamento": "12",
+            "id_concesionario": "19",
+            "politica": "1",
+            "promociones": "0",
+            "terceros": "0"
+        }
+    ]
 }
