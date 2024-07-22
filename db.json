@@ -1,0 +1,46 @@
+{"modelo":[
+    {
+        "id": 1,
+        "name": "Modelo 1"
+    },
+    {
+        "id": 2,
+        "name": "Modelo 2"
+    },
+    {
+        "id": 3,
+        "name": "Modelo 3"
+    }
+],
+  "departamento":[
+    {
+        "id": 1,
+        "name": "Lima"
+    },
+    {
+        "id": 2,
+        "name": "Ica"
+    },
+    {
+        "id": 3,
+        "name": "Cusco"
+    }
+],
+  "concesionario":[
+    {
+        "id": 1,
+        "name": "Ate - San Blas",
+        "idDep": 1
+    },
+    {
+        "id": 2,
+        "name": "Huacho - Perucar",
+        "idDep": 1
+    },
+    {
+        "id": 3,
+        "name": "Cusco - Automotriz Andina S.A.",
+        "idDep": 3
+    }
+]
+}
