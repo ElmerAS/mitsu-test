@@ -59,5 +59,12 @@
             "promociones": "0",
             "terceros": "0"
         }
+    ],
+    "token": [
+        {
+            "usuario": "user@user.com",
+            "apellido": "m78kl2",
+            "token": "jhdka6326da5daf26af5a6f6af5a6f9a5f"
+        }
     ]
 }
