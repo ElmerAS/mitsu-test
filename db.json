@@ -62,8 +62,8 @@
     ],
     "token": [
         {
-            "usuario": "user@user.com",
-            "apellido": "m78kl2",
+            "username": "user@user.com",
+            "password": "m78kl2",
             "token": "jhdka6326da5daf26af5a6f6af5a6f9a5f"
         }
     ]
